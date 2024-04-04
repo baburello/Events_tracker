@@ -1,0 +1,26 @@
+.tblWrapper{
+    min-width: 40vw;
+    margin: 60px auto;
+    margin-bottom: 100px;
+}
+
+.tblContainer{
+    max-height: 500px;
+    border:1px solid rgb(129, 129, 129);
+    border-radius:20px;
+}
+
+.bold{
+    height: 60px;
+    font-weight: bold;
+}
+
+.btnContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.borderRight{
+    border-right: 1px solid rgb(129, 129, 129);
+}
